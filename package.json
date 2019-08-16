@@ -1,5 +1,5 @@
 {
-  "name": "@screeps/atom-ternjs",
+  "name": "atom-ternjs-screeps",
   "main": "./lib/atom-ternjs",
   "version": "0.20.0-screeps.1",
   "private": false,
@@ -14,7 +14,7 @@
       "atom-ternjs:openConfig"
     ]
   },
-  "repository": "https://github.com/tststs/atom-ternjs",
+  "repository": "https://github.com/screeps/atom-ternjs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
