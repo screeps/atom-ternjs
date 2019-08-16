@@ -1,7 +1,7 @@
 {
-  "name": "atom-ternjs",
+  "name": "atom-ternjs-screeps",
   "main": "./lib/atom-ternjs",
-  "version": "0.20.0",
+  "version": "1.0.0",
   "private": false,
   "description": "JavaScript code intelligence for atom with tern. Adds support for ES5, ES6, ES7, ES8, Node.js and more. Extendable via plugins.",
   "activationHooks": [
@@ -14,7 +14,7 @@
       "atom-ternjs:openConfig"
     ]
   },
-  "repository": "https://github.com/tststs/atom-ternjs",
+  "repository": "https://github.com/screeps/atom-ternjs",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0"
@@ -27,6 +27,7 @@
     "minimatch": "^3.0.4",
     "resolve-from": "^5.0.0",
     "tern": "^0.24.1",
+    "tern-screeps": "0.0.2",
     "underscore-plus": "^1.7.0",
     "uuid": "^3.3.2"
   },
